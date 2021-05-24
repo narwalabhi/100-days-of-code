@@ -27,7 +27,7 @@
 
 ### Day 3: May 22, 2021
 
-**Today's Progress**: Fixed some bugs in the booking and ticekt component.
+**Today's Progress**: Fixed some bugs in the booking and ticekt component and made some changes to my REST API.
 
 **Thoughts:** I have been trying out different ways to work with redux and localstorage.
 
