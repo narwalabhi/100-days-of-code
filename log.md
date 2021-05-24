@@ -23,3 +23,23 @@
 **Thoughts:** I'm getting pretty comfortable with redux and API integration but the UI needs work. 
 
 **Link to work:** [Redux-thunk implementation](https://github.com/narwalabhi/railway-user-react/commit/363451c783da086f7abe22aa654a0141982fcd27)
+
+
+### Day 3: May 22, 2021
+
+**Today's Progress**: Fixed some bugs in the booking and ticekt component.
+
+**Thoughts:** I have been trying out different ways to work with redux and localstorage.
+
+**Link to work:** [Redux-thunk implementation](https://github.com/narwalabhi/railway-user-react/commit/29b65645bbbef8faa756cb6d05331c870e003910)
+
+
+### Day 4: May 23, 2021
+
+**Today's Progress**: Completed the PNR enquiry page and made some more imporvements on the ticket component.
+
+**Thoughts:** Redux-hooks can be used in a better way and I need to read about how to use redux-hook effectively.
+
+**Link to work:** [Redux-thunk implementation](https://github.com/narwalabhi/railway-user-react/commit/29b65645bbbef8faa756cb6d05331c870e003910)
+
+
