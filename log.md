@@ -43,3 +43,12 @@
 **Link to work:** [Redux-thunk implementation](https://github.com/narwalabhi/railway-user-react/commit/29b65645bbbef8faa756cb6d05331c870e003910)
 
 
+### Day 4: May 24, 2021
+
+**Today's Progress**: Completed the Booking History component of my railway-app.
+
+**Thoughts:** It took more time than expected but it's working just like I wanted.
+
+**Link to work:** [Redux-thunk implementation](https://github.com/narwalabhi/railway-user-react/commit/7623f1dc6ee81213c992849da51163812cab9ca5)
+
+
