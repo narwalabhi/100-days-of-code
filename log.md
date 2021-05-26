@@ -14,7 +14,7 @@
 
 **Thoughts:** Using redux-hooks is better and reduces the code overhead. 
 
-**Link to work:** [Redux-thunk implementation](https://github.com/narwalabhi/railway-user-react)
+**Link to work:** [railway-user](https://github.com/narwalabhi/railway-user-react)
 
 ### Day 2: May 21, 2021
 
@@ -22,7 +22,7 @@
 
 **Thoughts:** I'm getting pretty comfortable with redux and API integration but the UI needs work. 
 
-**Link to work:** [Redux-thunk implementation](https://github.com/narwalabhi/railway-user-react/commit/363451c783da086f7abe22aa654a0141982fcd27)
+**Link to work:** [railway-user](https://github.com/narwalabhi/railway-user-react/commit/363451c783da086f7abe22aa654a0141982fcd27)
 
 
 ### Day 3: May 22, 2021
@@ -31,7 +31,7 @@
 
 **Thoughts:** I have been trying out different ways to work with redux and localstorage.
 
-**Link to work:** [Redux-thunk implementation](https://github.com/narwalabhi/railway-user-react/commit/29b65645bbbef8faa756cb6d05331c870e003910)
+**Link to work:** [railway-user](https://github.com/narwalabhi/railway-user-react/commit/29b65645bbbef8faa756cb6d05331c870e003910)
 
 
 ### Day 4: May 23, 2021
@@ -40,7 +40,7 @@
 
 **Thoughts:** Redux-hooks can be used in a better way and I need to read about how to use redux-hook effectively.
 
-**Link to work:** [Redux-thunk implementation](https://github.com/narwalabhi/railway-user-react/commit/29b65645bbbef8faa756cb6d05331c870e003910)
+**Link to work:** [railway-user](https://github.com/narwalabhi/railway-user-react/commit/29b65645bbbef8faa756cb6d05331c870e003910)
 
 
 ### Day 5: May 24, 2021
@@ -49,6 +49,15 @@
 
 **Thoughts:** It took more time than expected but it's working just like I wanted.
 
-**Link to work:** [Redux-thunk implementation](https://github.com/narwalabhi/railway-user-react/commit/7623f1dc6ee81213c992849da51163812cab9ca5)
+**Link to work:** [railway-user](https://github.com/narwalabhi/railway-user-react/commit/7623f1dc6ee81213c992849da51163812cab9ca5)
+
+### Day 6: May 25, 2021
+
+**Today's Progress**: Built the signup page and integrated my backend service also started learning AWS to deploy my spring boot application.
+
+**Thoughts:** It took more time than expected but it's working just like I wanted.
+
+**Link to work:** [railway-user](https://github.com/narwalabhi/railway-user-react/commit/235699bb5743c6e535f63e3f43d7c7e964f2c8d9)
+
 
 
