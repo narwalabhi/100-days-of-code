@@ -59,5 +59,12 @@
 
 **Link to work:** [railway-user](https://github.com/narwalabhi/railway-user-react/commit/235699bb5743c6e535f63e3f43d7c7e964f2c8d9)
 
+### Day 7: May 26, 2021
+
+**Today's Progress**: I have been studying basics of AWS and also added a feature in my spring boot API that sends a email with the ticket details to the user. 
+
+**Thoughts:** I need to migrate my bakcend application to AWS and adda feature of pdf ticket generation to the API.
+
+**Link to work:** [railway-backend-booking-service](https://github.com/narwalabhi/booking-service/commit/ca2b89abbc563fada7b7a0521d5d060f736ee540)
 
 
