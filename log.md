@@ -67,4 +67,12 @@
 
 **Link to work:** [railway-backend-booking-service](https://github.com/narwalabhi/booking-service/commit/ca2b89abbc563fada7b7a0521d5d060f736ee540)
 
+### Day 8: May 28, 2021
+
+**Today's Progress**: Added ticket pdf generation feature using iText library in spring boot on booking a seat in my API.
+
+**Thoughts:** I found certain libraries that can be used for document generation in java i.e. iText, jasper that I wasn't aware of.
+
+**Link to work:** [railway-backend-booking-service](https://github.com/narwalabhi/booking-service/commit/c43b59d7912a63d54961c4345ffb062bc5c6dc0b)
+
 
