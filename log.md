@@ -75,4 +75,12 @@
 
 **Link to work:** [railway-backend-booking-service](https://github.com/narwalabhi/booking-service/commit/c43b59d7912a63d54961c4345ffb062bc5c6dc0b)
 
+### Day 9: May 29, 2021
+
+**Today's Progress**: Added a feature to send pdf file of ticket to the user after booking a ticket in the booking-service.  
+
+**Thoughts:** My booking service has been fully implemented all I need is a few more tweaks for better performance.
+
+**Link to work:** [railway-backend-booking-service](https://github.com/narwalabhi/booking-service/commit/a0103b4d88ae2b548fdc7cd12757549018581d7b)
+
 
