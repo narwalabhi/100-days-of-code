@@ -83,4 +83,12 @@
 
 **Link to work:** [railway-backend-booking-service](https://github.com/narwalabhi/booking-service/commit/a0103b4d88ae2b548fdc7cd12757549018581d7b)
 
+### Day 10: May 30, 2021
+
+**Today's Progress**: Created a AWS DynamoDB CRUD spring boot app and deployed it successfully on AWS with Elastic Beanstalk.
+
+**Thoughts:** Elastic Beanstalk makes it easy to deploy applications on AWS but I need to deploy a whole microservice architectur so I'll need to go through more docs.
+
+**Link to work:** [railway-backend-booking-service](https://github.com/narwalabhi/dynamodb-demo)
+
 
